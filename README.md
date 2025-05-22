@@ -60,10 +60,6 @@ This project enhances the classic game with several advanced features:
 
 > _Coming soon!_
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 Enjoy playing Advanced Tic Tac Toe! If you have suggestions or find bugs, feel free to open an issue or contribute.
